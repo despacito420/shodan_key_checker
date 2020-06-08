@@ -1,4 +1,6 @@
-# Shodan API Key Checker
+# Shodan API Key Checker - Python3 Version
+Adapted the original script to Python3 because I found it quite useful. Please find the original description below. 
+
 This is a quick script written for sorting and categorizing Shodan API keys acquired via scraping the internet.  
 I wrote it because I kept finding people leaving their API keys unprotected all over the shop, and frankly, sometimes I need a Shodan API key quickly and can't be arsed finding my own one.
 
